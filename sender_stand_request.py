@@ -4,13 +4,6 @@ import configuration
 # Импорт библиотеки requests для выполнения HTTP-запросов
 import requests
 
-# Импортируем модуль sender_stand_request, содержащий функции для отправки HTTP-запросов к API.
-# Импорт настроек из модуля configuration, который содержит параметры конфигурации, такие как URL сервиса
-import configuration
-
-# Импорт библиотеки requests для выполнения HTTP-запросов
-import requests
-
 # Импорт данных запроса из модуля data, в котором определены заголовки и тело запроса
 import data
 
